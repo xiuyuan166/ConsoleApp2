@@ -10,6 +10,8 @@ namespace ConsoleApp2
     {
         static void Main(string[] args)
         {
+            Console.Write("11");
+            Console.Write("22");
         }
     }
 }
